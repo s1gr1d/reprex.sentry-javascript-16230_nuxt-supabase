@@ -2,6 +2,10 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Environment Variables
+
+Copy `.env.example` and rename it to `.env` and set your environment variables.
+
 ## Setup
 
 Make sure to install dependencies:
